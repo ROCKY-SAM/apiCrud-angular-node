@@ -1,3 +1,15 @@
+#SAM
+npm install bootstrap --save
+
+"styles": [
+   "src/styles.css",
+   "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+ ],
+
+ ng serve -o
+ ng g c (ng generate component)  --spec=false  (to remove spec file)
+
+ https://appdividend.com/2018/11/04/angular-7-crud-example-mean-stack-tutorial/
 # ApiCrud
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
